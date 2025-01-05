@@ -1,0 +1,17 @@
+.LandingContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  /* gap: 200px; */
+}
+
+.imgLand {
+  /* height: 500px; */
+  /* width: 450px; */
+}
+
+.imgLand img {
+  height: 600px;
+  width: 600px;
+}
